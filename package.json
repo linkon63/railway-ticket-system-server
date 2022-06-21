@@ -17,5 +17,13 @@
     "firebase-admin": "^11.0.0",
     "heroku": "^7.60.2",
     "node": "^18.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkon63/railway-ticket-system-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linkon63/railway-ticket-system-server/issues"
+  },
+  "homepage": "https://github.com/linkon63/railway-ticket-system-server#readme"
 }
