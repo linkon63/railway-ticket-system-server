@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/linkon63/railway-ticket-system-server/issues"
   },
-  "homepage": "https://github.com/linkon63/railway-ticket-system-server#readme"
+  "homepage": "https://github.com/linkon63/railway-ticket-system-server#readme",
+  "devDependencies": {}
 }
