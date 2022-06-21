@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "railway-ticket-d0266",
+  "private_key_id": "75aea0a1ed7e22cdbc5b395fff24d392cb329700",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/7BxrC1XQDdph\n6Kh1zt/A1KFTqLBhmJr5EwV0O+B+wSEdhQAm7kMQzDd8DmBtRigoPY9o8BJmnZPB\n4v8Kk1K3ZYTeLw4t//zXOaNkKq0PzxUA4j9VlQpi1CPFdYMghwmQwvE6VRubRHwF\nys9SE+K/8OqXJBDQAmGEnupLM3/N+/dHtjcwO02QYU+sL0hhdcGG2pGeCmnBvyM+\nWfoVyns30kVrKixaagIoXE29edlja7nklPeNEIfoIBNNN9z/NVpv3awfhjHJnaoY\nETIALVeLb1r13CMiv/iGk/CKQHmdFwT2uKrkGmpmVN+lBYm+YEjefAnpVoBHS3tQ\n6zGiMuoDAgMBAAECggEACk0XnJc+XK07ReFBYxfFFfCG7pqYFpgksuG84gELJHW+\nDuH1bbsaiZ6sch6QOZoRmOqIKM9Z7XzfuJrNqmxysCB+zsrvxxnj7eYy4uZES7W6\nht83gjxxrKqxdzolEGxIrMBwRvulpuI4iSCnNNyXlLECczWFJ+UFnu/fDqvaj3YZ\nPok5bxPzH/dSzUqY0ExmO5Gs3797kEh9lpEgmE4ACQpN+ocHtHP51OehJtFHG8pi\nRevgu4fdN1QGKVSaIbIkAekqCvqmt5U7LMnhaNGLlB35v/gj59nX/X/HSvFzaEfD\ngnypyTKlnknYCzSGpHJgUYcnRDkK8HxHzs7VOVGH4QKBgQDvOMIrUtz2WiaVTtgy\n129U/ivGPJkFh5qa9Ed1CYG7z6nophlQMU459YEK+vbFQNtjpgwxUUs8uyozAVqm\nuLMJUR66e5cPUn8TFf9e5V6+aQOIvNb+eJ8IpNDd+/epOhTVqU5dA7xtH7Dbdq1E\nwmi+AQPn71yEFEquE+KFVtaetwKBgQDNYhawud6AJc6zRmpgfg9Dm0McUkeFqc7A\nmZR5EQtMmwwyRAgjk+j2iYANe9Q3ORp2eg4GYN9heZss0Tkf7QC1UMoRTWy2IIxA\nz0go9a33GXVZnvHhiSoW4UE9NXFIFKT8xuk1DhkGWUCjG45W2H6AoAaZ5mQ9/qkZ\nSKkhE2JDFQKBgQCE2SVjf9n76Wah5i5EVcWbEqfmqAJmwr7GLMB+K3Bjh1iZPZyz\nHx6NK1ylZ2ehdXogpbcBsF6y9FHkD21zRwEOPIFvGHF0beDqDX5LCeAKqDDxP8W5\nfez7lOP1UxdfYETvvt0o5IlApKfHyOlCVSBr3A56QEBFjStH7v0OBYKckwKBgQC5\nSsNZ0XaxemqPRvn18ATpY4waYwjvyBElpelTiFL/W+qW9tW481p8AfUrNQpyf+wl\n81vv2TnvAP1EY8X7zaCT9D05evaXIaonVlqtyWiXw7ohjsp+RXdZiQOIq0x2UVnA\nS9xd50ggeClefh/erhcDCFysQDUz0SrSCsG7e3dtOQKBgDuznPg1xZ6sao2/W7kD\nGzwgyjGYPuCKJbh09GECzqrHQ8xfgtKHP3WRw603BTYbklQaccfyTaA3BR2SXqPr\nVfY/xMpjbuLQkUf8FlL9C63jVkAkSV5XGNmYO/WhJrkQPCnVhENPALrBBMLrdxi3\nRAlNenfXGku24k5hR0H2E3J6\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a995u@railway-ticket-d0266.iam.gserviceaccount.com",
+  "client_id": "106661384929987185182",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a995u%40railway-ticket-d0266.iam.gserviceaccount.com"
+}
